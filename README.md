@@ -12,7 +12,7 @@ Welcome to my GitHub profile! Here are the two major projects I contributed to f
   - Shopping cart and payment gateway integration.
 - *Screenshots*:
   ![E-Commerce Screenshot](link-to-screenshot.png)
-- *Live Demo*: (https://cart-craft.pages.dev/?q=)
+- *Live Demo*: [CartCraft](https://cart-craft.pages.dev/?q=)
 
 ## 2. Social Media Website *LYNKUS* *GRADUATION PROJECT*
 - *Repository*: [Social Media App](https://github.com/abdoSamehDev/lynkus)
@@ -23,7 +23,7 @@ Welcome to my GitHub profile! Here are the two major projects I contributed to f
   - Post creation, likes, and comments.
 - *Screenshots*:
   ![Social Media Screenshot](link-to-screenshot.png)
-- *Live Demo*: (https://lynkus-client.vercel.app/welcome)
+- *Live Demo*: [lynkus](https://lynkus-client.vercel.app/welcome)
 
 ---
 Feel free to explore my work and reach out for more information!
